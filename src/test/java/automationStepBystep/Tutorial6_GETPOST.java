@@ -52,7 +52,7 @@ public class Tutorial6_GETPOST {
 			post("/users").
 		then().
 			statusCode(201).log().all();
-		statusCode(201).log().all();
+		//ending here
 		
 		
 		
