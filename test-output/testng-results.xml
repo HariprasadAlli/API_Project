@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-10T06:50:33 IST" name="Default suite" finished-at="2025-06-10T06:50:35 IST" duration-ms="2254">
+    <groups>
+    </groups>
+    <test started-at="2025-06-10T06:50:33 IST" name="Default test" finished-at="2025-06-10T06:50:35 IST" duration-ms="2254">
+      <class name="automationStepBystep.Tutorial6_GETPOST">
+        <test-method signature="testPOST()[pri:0, instance:automationStepBystep.Tutorial6_GETPOST@223191a6]" started-at="2025-06-10T06:50:33 IST" name="testPOST" finished-at="2025-06-10T06:50:35 IST" duration-ms="2202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPOST -->
+      </class> <!-- automationStepBystep.Tutorial6_GETPOST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
